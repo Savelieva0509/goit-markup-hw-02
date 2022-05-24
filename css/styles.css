@@ -168,6 +168,10 @@ body {
     background-color:var(--background-grey-color);
 }
 
+.team-item {
+    background: var(--primary-white-color);
+}
+
 .team-name {
     font-weight: 500;
     font-size: 16px;
@@ -234,7 +238,7 @@ border-radius: 4px;
     background: var(--accent-color);
 }
 
-.portfolio-link {
+.portfolio-item {
     background: var(--primary-white-color);
 }
 .portfolio-subtitle {
